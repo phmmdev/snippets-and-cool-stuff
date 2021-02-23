@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9b51ec66-c461-4bad-8daa-b015a9416c61" name="Default Changelist" comment="" />
+    <list default="true" id="9b51ec66-c461-4bad-8daa-b015a9416c61" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/target/classes/br/samples/validation/examples/Application.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/samples/validation/examples/PayLoad.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/samples/validation/examples/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/samples/validation/examples/validators/ValidatorPayload.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/samples/validation/examples/validators/ValidatorPerson.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +21,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1orPilEFoa3LaWwame5DnYrGttL" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -29,7 +35,7 @@
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.17931035" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunManager">
     <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -109,10 +115,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1614048736689" />
-    <state x="184" y="0" key="SettingsEditor" timestamp="1614047916798">
+    <state x="184" y="0" key="SettingsEditor" timestamp="1614048929117">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1614047916798" />
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1614048929117" />
   </component>
   <component name="XDebuggerManager">
     <pin-to-top-manager>
